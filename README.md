@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://kennedy-chaves.github.io/NLW-eSports/)
+[Clique aqui para acessar](https://Kennedy-chaves.github.io/NLW-eSports/)
 
 ## Tecnologias
 
